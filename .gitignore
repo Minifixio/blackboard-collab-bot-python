@@ -1,0 +1,9 @@
+.cache-minifixiowow
+.venv
+.vscode
+__pycache__
+chromedriver
+draw_mouse.py
+utils/script_li.js
+utils/page_elements.html
+credentials.py
