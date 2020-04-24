@@ -1,0 +1,8 @@
+Voici les commandes disponibles :
+!aide : liste les commandes
+!musique : jouer de la musique (pas encore fonctionnelle)
+!parle : me faire parler
+!covid : des infos sur le covid19
+!traduire : traduire une phrase en anglais
+!chat : Une image de chat
+Il suffit de tapper la commande désirée en commencant par "!"
